@@ -1,0 +1,4 @@
+Handle,Title,Variant SKU,Variant Price
+broken-1,Broken One,BRK-1,not-a-number
+,Missing Handle,BRK-2,9.99
+broken-3,,BRK-3,12.50
